@@ -125,4 +125,7 @@ body {
       min-width: 233px;
     }
   }
+#navbar a:hover {
+  color: #c2b9ec;
+}
   
